@@ -1,1 +1,1 @@
-This is peejonks' first git project!
+This is peejong's first git project!
